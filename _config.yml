@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: JavaNote
+subtitle: 'To be a better developer!'
 description: ''
 keywords:
-author: John Doe
+author: HitoMeng 
 language: en
 timezone: ''
 
@@ -98,4 +98,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:Hitooooo/hitooooo.github.io.git 
+  branch: master
