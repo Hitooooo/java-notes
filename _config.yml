@@ -5,16 +5,16 @@
 # Site
 title: JavaNote
 subtitle: 'To be a better developer!'
-description: ''
+description: 'You do have the time!'
 keywords:
 author: HitoMeng 
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://hitomeng.gitee.io/java-notes/
+root: /java-notes/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,5 +99,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:Hitooooo/hitooooo.github.io.git 
+  repository: git@gitee.com:hitomeng/java-notes.git 
   branch: master
