@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://hitomeng.gitee.io/java-notes/
+url: https://hitomeng.gitee.io/
 root: /java-notes/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
